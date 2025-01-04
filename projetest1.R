@@ -48,3 +48,4 @@ ggplot(Escarpins_df_NA , aes(x = "", y = Prix)) +
        y = "Prix (en euros)") +
   scale_y_continuous(breaks = seq(350, 555, by = 25)) + 
   theme_minimal()
+# hey manick
